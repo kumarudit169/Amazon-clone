@@ -2,5 +2,5 @@
 
 
 
- ![Alt text]()
+ ![Website Screenshot](images/website-screenshot.png)
 
